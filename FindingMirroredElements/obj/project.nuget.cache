@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BFChrriz9CfQOu/4rfughhImkAurDiC1FsxGTS762KSPTUcBIcXQlt0BSDNaXBGchBkQDEPpPLDPSnEkNZXwNA==",
+  "success": true,
+  "projectFilePath": "D:\\_GitHub\\RevitMirroredElements\\FindingMirroredElements\\FindingMirroredElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Agens\\.nuget\\packages\\autodesk.revit.sdk\\2022.0.2.392\\autodesk.revit.sdk.2022.0.2.392.nupkg.sha512"
+  ],
+  "logs": []
+}

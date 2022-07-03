@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>FindingMirroredElements</Name>
+		<Assembly>FindingMirroredElements.dll</Assembly>
+		<FullClassName>FindingMirroredElements.App</FullClassName>
+		<AddInId>02d40c6c-2700-479f-ad5e-5335b8817eb8</AddInId>
+		<VendorId>FindingMirroredElements</VendorId>
+		<VendorDescription>contact me: v2arch.ru@gmail.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>

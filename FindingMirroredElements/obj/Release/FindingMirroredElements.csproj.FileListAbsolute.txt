@@ -1,0 +1,13 @@
+E:\__Programs\FindingMirroredElements\bin\Release\FindingMirroredElements.dll
+E:\__Programs\FindingMirroredElements\bin\Release\FindingMirroredElements.pdb
+E:\__Programs\FindingMirroredElements\obj\Release\FindingMirroredElements.csproj.AssemblyReference.cache
+E:\__Programs\FindingMirroredElements\obj\Release\Views\ReportWindow.g.cs
+E:\__Programs\FindingMirroredElements\obj\Release\FindingMirroredElements_MarkupCompile.cache
+E:\__Programs\FindingMirroredElements\obj\Release\FindingMirroredElements_MarkupCompile.lref
+E:\__Programs\FindingMirroredElements\obj\Release\Views\ReportWindow.baml
+E:\__Programs\FindingMirroredElements\obj\Release\FindingMirroredElements.g.resources
+E:\__Programs\FindingMirroredElements\obj\Release\FindingMirroredElements.Properties.Resources.resources
+E:\__Programs\FindingMirroredElements\obj\Release\FindingMirroredElements.csproj.GenerateResource.cache
+E:\__Programs\FindingMirroredElements\obj\Release\FindingMirroredElements.csproj.CoreCompileInputs.cache
+E:\__Programs\FindingMirroredElements\obj\Release\FindingMirroredElements.dll
+E:\__Programs\FindingMirroredElements\obj\Release\FindingMirroredElements.pdb

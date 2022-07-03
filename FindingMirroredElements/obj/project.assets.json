@@ -1,0 +1,216 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Autodesk.Revit.SDK/2022.0.2.392": {
+        "type": "package",
+        "compile": {
+          "ref/net48/AdWindows.dll": {},
+          "ref/net48/RevitAPI.dll": {},
+          "ref/net48/RevitAPIBrowserUtils.dll": {},
+          "ref/net48/RevitAPIFoundation.dll": {},
+          "ref/net48/RevitAPIIFC.dll": {},
+          "ref/net48/RevitAPILink.dll": {},
+          "ref/net48/RevitAPIMacros.dll": {},
+          "ref/net48/RevitAPIMacrosInterop.dll": {},
+          "ref/net48/RevitAPIMacrosInteropAPI.dll": {},
+          "ref/net48/RevitAPISteel.dll": {},
+          "ref/net48/RevitAPIUI.dll": {},
+          "ref/net48/RevitAPIUILink.dll": {},
+          "ref/net48/RevitAPIUIMacros.dll": {},
+          "ref/net48/RevitAPIUIMacrosInterop.dll": {},
+          "ref/net48/RevitAPIUIMacrosInteropAPI.dll": {},
+          "ref/net48/RevitAddInUtility.dll": {},
+          "ref/net48/RevitDB.dll": {},
+          "ref/net48/RevitDBAPI.dll": {},
+          "ref/net48/RevitNET.dll": {},
+          "ref/net48/RevitUI.dll": {},
+          "ref/net48/RevitUIAPI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "Autodesk.Revit.SDK/2022.0.2.392": {
+        "type": "package",
+        "compile": {
+          "ref/net48/AdWindows.dll": {},
+          "ref/net48/RevitAPI.dll": {},
+          "ref/net48/RevitAPIBrowserUtils.dll": {},
+          "ref/net48/RevitAPIFoundation.dll": {},
+          "ref/net48/RevitAPIIFC.dll": {},
+          "ref/net48/RevitAPILink.dll": {},
+          "ref/net48/RevitAPIMacros.dll": {},
+          "ref/net48/RevitAPIMacrosInterop.dll": {},
+          "ref/net48/RevitAPIMacrosInteropAPI.dll": {},
+          "ref/net48/RevitAPISteel.dll": {},
+          "ref/net48/RevitAPIUI.dll": {},
+          "ref/net48/RevitAPIUILink.dll": {},
+          "ref/net48/RevitAPIUIMacros.dll": {},
+          "ref/net48/RevitAPIUIMacrosInterop.dll": {},
+          "ref/net48/RevitAPIUIMacrosInteropAPI.dll": {},
+          "ref/net48/RevitAddInUtility.dll": {},
+          "ref/net48/RevitDB.dll": {},
+          "ref/net48/RevitDBAPI.dll": {},
+          "ref/net48/RevitNET.dll": {},
+          "ref/net48/RevitUI.dll": {},
+          "ref/net48/RevitUIAPI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "Autodesk.Revit.SDK/2022.0.2.392": {
+        "type": "package",
+        "compile": {
+          "ref/net48/AdWindows.dll": {},
+          "ref/net48/RevitAPI.dll": {},
+          "ref/net48/RevitAPIBrowserUtils.dll": {},
+          "ref/net48/RevitAPIFoundation.dll": {},
+          "ref/net48/RevitAPIIFC.dll": {},
+          "ref/net48/RevitAPILink.dll": {},
+          "ref/net48/RevitAPIMacros.dll": {},
+          "ref/net48/RevitAPIMacrosInterop.dll": {},
+          "ref/net48/RevitAPIMacrosInteropAPI.dll": {},
+          "ref/net48/RevitAPISteel.dll": {},
+          "ref/net48/RevitAPIUI.dll": {},
+          "ref/net48/RevitAPIUILink.dll": {},
+          "ref/net48/RevitAPIUIMacros.dll": {},
+          "ref/net48/RevitAPIUIMacrosInterop.dll": {},
+          "ref/net48/RevitAPIUIMacrosInteropAPI.dll": {},
+          "ref/net48/RevitAddInUtility.dll": {},
+          "ref/net48/RevitDB.dll": {},
+          "ref/net48/RevitDBAPI.dll": {},
+          "ref/net48/RevitNET.dll": {},
+          "ref/net48/RevitUI.dll": {},
+          "ref/net48/RevitUIAPI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "Autodesk.Revit.SDK/2022.0.2.392": {
+        "type": "package",
+        "compile": {
+          "ref/net48/AdWindows.dll": {},
+          "ref/net48/RevitAPI.dll": {},
+          "ref/net48/RevitAPIBrowserUtils.dll": {},
+          "ref/net48/RevitAPIFoundation.dll": {},
+          "ref/net48/RevitAPIIFC.dll": {},
+          "ref/net48/RevitAPILink.dll": {},
+          "ref/net48/RevitAPIMacros.dll": {},
+          "ref/net48/RevitAPIMacrosInterop.dll": {},
+          "ref/net48/RevitAPIMacrosInteropAPI.dll": {},
+          "ref/net48/RevitAPISteel.dll": {},
+          "ref/net48/RevitAPIUI.dll": {},
+          "ref/net48/RevitAPIUILink.dll": {},
+          "ref/net48/RevitAPIUIMacros.dll": {},
+          "ref/net48/RevitAPIUIMacrosInterop.dll": {},
+          "ref/net48/RevitAPIUIMacrosInteropAPI.dll": {},
+          "ref/net48/RevitAddInUtility.dll": {},
+          "ref/net48/RevitDB.dll": {},
+          "ref/net48/RevitDBAPI.dll": {},
+          "ref/net48/RevitNET.dll": {},
+          "ref/net48/RevitUI.dll": {},
+          "ref/net48/RevitUIAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Autodesk.Revit.SDK/2022.0.2.392": {
+      "sha512": "/0I7QoCC2xHkVA5jUHqnq9shb7bkqzH75VhvbVmGP7YofNvEZK3fILwXzaik1Dk5NRc9VIhEAmmmwnFRFxjigQ==",
+      "type": "package",
+      "path": "autodesk.revit.sdk/2022.0.2.392",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "Revit.png",
+        "autodesk.revit.sdk.2022.0.2.392.nupkg.sha512",
+        "autodesk.revit.sdk.nuspec",
+        "ref/net48/AdWindows.dll",
+        "ref/net48/RevitAPI.dll",
+        "ref/net48/RevitAPI.xml",
+        "ref/net48/RevitAPIBrowserUtils.dll",
+        "ref/net48/RevitAPIFoundation.dll",
+        "ref/net48/RevitAPIIFC.dll",
+        "ref/net48/RevitAPIIFC.xml",
+        "ref/net48/RevitAPILink.dll",
+        "ref/net48/RevitAPIMacros.dll",
+        "ref/net48/RevitAPIMacros.xml",
+        "ref/net48/RevitAPIMacrosInterop.dll",
+        "ref/net48/RevitAPIMacrosInteropAPI.dll",
+        "ref/net48/RevitAPISteel.dll",
+        "ref/net48/RevitAPIUI.dll",
+        "ref/net48/RevitAPIUI.xml",
+        "ref/net48/RevitAPIUILink.dll",
+        "ref/net48/RevitAPIUIMacros.dll",
+        "ref/net48/RevitAPIUIMacros.xml",
+        "ref/net48/RevitAPIUIMacrosInterop.dll",
+        "ref/net48/RevitAPIUIMacrosInteropAPI.dll",
+        "ref/net48/RevitAddInUtility.dll",
+        "ref/net48/RevitAddInUtility.xml",
+        "ref/net48/RevitDB.dll",
+        "ref/net48/RevitDBAPI.dll",
+        "ref/net48/RevitNET.dll",
+        "ref/net48/RevitUI.dll",
+        "ref/net48/RevitUIAPI.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Autodesk.Revit.SDK >= 2022.0.2.392"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Agens\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\_GitHub\\RevitMirroredElements\\FindingMirroredElements\\FindingMirroredElements.csproj",
+      "projectName": "FindingMirroredElements",
+      "projectPath": "D:\\_GitHub\\RevitMirroredElements\\FindingMirroredElements\\FindingMirroredElements.csproj",
+      "packagesPath": "C:\\Users\\Agens\\.nuget\\packages\\",
+      "outputPath": "D:\\_GitHub\\RevitMirroredElements\\FindingMirroredElements\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Agens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "Autodesk.Revit.SDK": {
+            "target": "Package",
+            "version": "[2022.0.2.392, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
